@@ -1,0 +1,48 @@
+.top-buffer {
+    margin-top: 50px;
+}
+#footer {
+    color: white;
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+#footer h2, #footer a {
+    color: white;
+}
+#footer .footercontact {
+    font-size: 20px;
+    line-height: 1.4em;
+}
+#footerlogo {
+    display: table-cell;
+    padding: 0 10px 0 0;
+    vertical-align: bottom;
+    margin: 0;
+    float: none;
+    border-right: 1px solid white;
+}
+#footer img {
+    max-width: 150px;
+}
+#footer .site-name a {
+    margin-top: 4px;
+    font-size: 26px;
+    color: white;
+    text-shadow: black 0 0 2px;
+    font-weight: 300 !important;
+    letter-spacing: -0.04em;
+}
+.region-footer .block-menu a {
+    color: #83efff !important;
+    font-size: 16px;
+}
+.region-footer .block-menu li {
+    color: #83efff !important;
+    font-size: 16px;
+    margin-top: 10px;
+}
+#footer {
+    background: linear-gradient( rgba(77, 83, 87, 0.90), rgba(77, 83, 87, 0.90)), /* bottom, image */
+    url(https://sites.stanford.edu/lbre-production/sites/default/files/20141031_-_bill_schwob_photography_4_v6k3002_0.png) no-repeat;
+    background-size: 100%;
+}
